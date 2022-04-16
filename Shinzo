@@ -1,0 +1,10 @@
+ "name": "Shinzo Token",
+    "website": "https://www.shinzotoken.com",
+    "description": "The Shinzo Token is stable source of passive income in good and bad times.",
+    "explorer": "https://bscscan.com/address/0xC9Ad2F68059dFeB39DBb00A867ebB1f9b782f353",
+    "type": "BEP20",
+    "symbol": "Shinzo",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC9Ad2F68059dFeB39DBb00A867ebB1f9b782f353"
+}
